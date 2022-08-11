@@ -9,5 +9,5 @@ This repository contains notebooks with examples used for teaching biological dy
 
 ### Acknowledgments
 - Thanks to @jessekreger and @xw363 for contributing code to this project
-- Thanks to the developers of ModelingToolkit.jl 
+- Thanks to the developers of ModelingToolkit.jl & the [SciML](https://sciml.ai/) community!
 
